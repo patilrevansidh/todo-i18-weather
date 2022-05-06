@@ -1,0 +1,19 @@
+{
+  "weather": "weather",
+  "add-todos": "Add TODOs",
+  "edit-todos": "edit-todos",
+  "offline-messages": "You are Offline",
+  "online-messages": "You are online",
+  "clear-all": "Clear All",
+  "add": "Add",
+  "update": "Update",
+  "delete": "Delete",
+  "delete-all": "Delete All",
+  "cancel": "Cancel",
+  "todo-placeholder": "Enter TODO Item",
+  "todo-item": "Todo",
+  "description": "description",
+  "description-placeholder": "Enter Description",
+  "export-sheet": "Export Sheet",
+  "no-data-found": "No Data Found"
+}

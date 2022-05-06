@@ -1,0 +1,18 @@
+{
+  "weather": "मौसम",
+  "add-todos": "जोड़ें टोडोस",
+  "edit-todos": "संपादन करना टोडोस",
+  "offline-messages": "आपका इंटरनेट बंद है",
+  "online-messages": "आपका इंटरनेट चालू हुआ",
+  "clear-all": "सब हटाइये",
+  "add": "जोड़ें",
+  "update": "अपडेट करें",
+  "delete": "मिटाना",
+  "delete-all": "सब मिटाना",
+  "todo-placeholder": "टोडोस दर्ज करें",
+  "cancel": "रद्द करें",
+  "todo-item": "टोडोस",
+  "description": "description",
+  "description-placeholder": "Enter Description",
+  "export-sheet": "Export Sheet"
+}
